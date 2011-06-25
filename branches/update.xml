@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <PackageClass>
+      <Version>2.0</Version>
+      <Groups>
+        <Items>
+          <GroupItem Name="Default">
+            <DisplayName>Default</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Default</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Carre 200x200">
+            <DisplayName>Carre 200x200</DisplayName>
+            <DefaulChecked>true</DefaulChecked>
+            <Description>Carre 200x200</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="4/3 200x200">
+            <DisplayName>4/3 200x200</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>4/3 200x200</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="sans bordure T:200">
+            <DisplayName>sans bordure T:200</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>sans bordure T:200</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Logo de FillR">
+            <DisplayName>Logo de FillR</DisplayName>
+            <DefaulChecked>false</DefaulChecked>
+            <Description>Logo de FillR</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+        </Items>
+      </Groups>
+      <Sections>
+        <Items />
+      </Sections>
+      <Dependencies>
+        <Items />
+      </Dependencies>
+      <GeneralInfo>
+        <Name>Logo France TNT et Cable</Name>
+        <Id>be8366ed-af3b-4a75-94e3-30f8aef9052c</Id>
+        <Author>Azzuro</Author>
+        <HomePage />
+        <ForumPage>http://forum.team-mediaportal.com/tv-serveur-1-0-moteur-tv-3-0-391/logo-tnt-85192/</ForumPage>
+        <UpdateUrl />
+        <Version>
+          <Major>0</Major>
+          <Minor>0</Minor>
+          <Build>1</Build>
+          <Revision>0</Revision>
+        </Version>
+        <ExtensionDescription>Cette Extension vous permet d'avoir l'affichage des logos des chaines Francaise sur le réseau numérique térestre (TNT)
+
+
+Ainsi que le réseau Numéricable par FillR
+
+Merci à Céhes pour son soutient ainsi que la Team MP-FR</ExtensionDescription>
+        <VersionDescription>Ajouts logos : 
+CFOOT 
+
+Amélioration du contour et de certain logos</VersionDescription>
+        <DevelopmentStatus>Stable</DevelopmentStatus>
+        <OnlineLocation />
+        <ReleaseDate>2010-12-18T14:17:26</ReleaseDate>
+        <Tags>logo, tnt, </Tags>
+        <Location>E:\MePo logo v2\MPEI\MPEI 2\0.0.1.0\Logo TNT FR 0.0.1.0.mpe1</Location>
+        <Params>
+          <Items>
+            <SectionParam Name="Icon">
+              <Value />
+              <ValueType>File</ValueType>
+              <Description>The icon file of the package (jpg,png,bmp)</Description>
+            </SectionParam>
+            <SectionParam Name="Online Icon">
+              <Value />
+              <ValueType>String</ValueType>
+              <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
+            </SectionParam>
+            <SectionParam Name="Configuration file">
+              <Value />
+              <ValueType>Template</ValueType>
+              <Description>The file used to configure the extension.
+ If have .exe extension the will be executed
+ If have .dll extension used like MP plugin configuration</Description>
+            </SectionParam>
+            <SectionParam Name="Online Screenshots">
+              <Value />
+              <ValueType>String</ValueType>
+              <Description>Online stored screenshot urls separated by ; </Description>
+            </SectionParam>
+            <SectionParam Name="Force to uninstall on update">
+              <Value>YES</Value>
+              <ValueType>Bool</ValueType>
+              <Description>Show dialog and force to uninstall previous version when updating an extension. Should only be disabled if you are using an NSIS/MSI installer.</Description>
+            </SectionParam>
+          </Items>
+        </Params>
+      </GeneralInfo>
+      <UniqueFileList>
+        <Items />
+      </UniqueFileList>
+      <ProjectSettings>
+        <FolderGroups />
+      </ProjectSettings>
+    </PackageClass>
+  </Items>
+</ExtensionCollection>
