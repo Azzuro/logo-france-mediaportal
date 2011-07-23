@@ -43,7 +43,27 @@
         <Items />
       </Sections>
       <Dependencies>
-        <Items />
+        <Items>
+          <DependencyItem>
+            <Type>MediaPortal</Type>
+            <Id />
+            <MinVersion>
+              <Major>0</Major>
+              <Minor>0</Minor>
+              <Build>0</Build>
+              <Revision>0</Revision>
+            </MinVersion>
+            <MaxVersion>
+              <Major>1</Major>
+              <Minor>1</Minor>
+              <Build>27971</Build>
+              <Revision>7</Revision>
+            </MaxVersion>
+            <WarnOnly>true</WarnOnly>
+            <Message>Need version of MediaPortal with version betwen 0.0.0.0 - 1.1.27971.7</Message>
+            <Name>MediaPortal</Name>
+          </DependencyItem>
+        </Items>
       </Dependencies>
       <GeneralInfo>
         <Name>Logo France TNT et Cable</Name>
@@ -56,7 +76,7 @@
           <Major>0</Major>
           <Minor>0</Minor>
           <Build>1</Build>
-          <Revision>1</Revision>
+          <Revision>2</Revision>
         </Version>
         <ExtensionDescription>Cette Extension vous permet d'avoir l'affichage des logos des chaines Francaise sur le réseau numérique térestre (TNT)
 
@@ -66,23 +86,21 @@ Ainsi que le réseau Numéricable par FillR
 Merci à Céhes pour son soutient ainsi que la Team MP-FR</ExtensionDescription>
         <VersionDescription>Ajouts logos : 
 
-Chaine HD
-
-Logo FillR</VersionDescription>
+Chaine CFOOT 4/3</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>http://www.team-mediaportal.com/index.php?option=com_mtree&amp;task=att_download&amp;link_id=76&amp;cf_id=24</OnlineLocation>
-        <ReleaseDate>2011-06-25T14:17:26</ReleaseDate>
+        <ReleaseDate>2011-07-23T14:17:26</ReleaseDate>
         <Tags>logo, tnt, </Tags>
-        <Location>E:\MePo logo v2\MPEI\MPEI 2\0.0.1.1\Logo TNT FR.mpe1</Location>
+        <Location>E:\MePo logo v2\MPEI\MPEI 2\0.0.1.2\Logo TNT FR 0.0.1.2.mpe1</Location>
         <Params>
           <Items>
             <SectionParam Name="Icon">
-              <Value />
+              <Value>E:\MePo logo v2\MPEI\package image\ICON2.png</Value>
               <ValueType>File</ValueType>
               <Description>The icon file of the package (jpg,png,bmp)</Description>
             </SectionParam>
             <SectionParam Name="Online Icon">
-              <Value />
+              <Value>http://www.team-mediaportal.com/components/com_mtree/img/listings/m/740.png</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
