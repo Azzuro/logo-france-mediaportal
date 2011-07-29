@@ -66,21 +66,28 @@
         <Author>Azzuro</Author>
         <HomePage>http://code.google.com/p/logo-france-mediaportal/</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/tv-serveur-1-0-moteur-tv-3-0-391/logo-tnt-85192/</ForumPage>
-        <UpdateUrl>http://code.google.com/p/logo-france-mediaportal/source/browse/branches/update.xml</UpdateUrl>
+        <UpdateUrl>http://logo-france-mediaportal.googlecode.com/svn/branches/update.xml</UpdateUrl>
         <Version>
           <Major>0</Major>
           <Minor>1</Minor>
           <Build>1</Build>
           <Revision>2</Revision>
         </Version>
-        <ExtensionDescription>Cette Extension vous permet d'avoir l'affichage des logos des chaines Francaise sur le réseau numérique térestre (TNT)
-
-
-Ainsi que le réseau Numéricable par FillR
-
+        <ExtensionDescription>Cette Extension vous permet d'avoir l'affichage des logos des chaines Francaise sur le réseau numérique térestre (TNT)
+
+
+
+
+
+Ainsi que le réseau Numéricable par FillR
+
+
+
 Merci à Céhes pour son soutient ainsi que la Team MP-FR</ExtensionDescription>
-        <VersionDescription>Ajouts logos : 
-
+        <VersionDescription>Ajouts logos : 
+
+
+
 Chaine CFOOT 4/3</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>http://logo-france-mediaportal.googlecode.com/svn/branches/Logo%20TNT%20FR.mpe1</OnlineLocation>
