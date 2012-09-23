@@ -21,14 +21,6 @@
               <Items />
             </Files>
           </GroupItem>
-          <GroupItem Name="Logo de FillR">
-            <DisplayName>Logo de FillR</DisplayName>
-            <DefaulChecked>false</DefaulChecked>
-            <Description>Logo de FillR</Description>
-            <Files>
-              <Items />
-            </Files>
-          </GroupItem>
         </Items>
       </Groups>
       <Sections>
@@ -51,8 +43,8 @@
               <Build>6</Build>
               <Revision>27644</Revision>
             </MaxVersion>
-            <WarnOnly>true</WarnOnly>
-            <Message>Need version of MediaPortal with version betwen 0.0.0.0 - 1.1.27971.7</Message>
+            <WarnOnly>false</WarnOnly>
+            <Message>requires MediaPortal version 1.1.6.27644 to 1.1.6.27644.</Message>
             <Name>MediaPortal</Name>
           </DependencyItem>
         </Items>
@@ -61,7 +53,7 @@
         <Items />
       </PluginDependencies>
       <GeneralInfo>
-        <Name>Logo France TNT et Cable</Name>
+        <Name>Logo France TNT</Name>
         <Id>be8366ed-af3b-4a75-94e3-30f8aef9052c</Id>
         <Author>Azzuro</Author>
         <HomePage>http://code.google.com/p/logo-france-mediaportal/</HomePage>
@@ -71,33 +63,23 @@
           <Major>0</Major>
           <Minor>1</Minor>
           <Build>1</Build>
-          <Revision>2</Revision>
+          <Revision>3</Revision>
         </Version>
         <ExtensionDescription>Cette Extension vous permet d'avoir l'affichage des logos des chaines Francaise sur le réseau numérique térestre (TNT)
 
 
-
-
-
-Ainsi que le réseau Numéricable par FillR
-
-
-
-Merci à Céhes pour son soutient ainsi que la Team MP-FR</ExtensionDescription>
-        <VersionDescription>Ajouts logos : 
-
-
-
-Chaine CFOOT 4/3</VersionDescription>
+Merci à la participation de la Team MP-FR</ExtensionDescription>
+        <VersionDescription>Suppression des logos de FillR, son propre travail est disponible ! 
+</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>http://logo-france-mediaportal.googlecode.com/svn/branches/Logo%20TNT%20FR.mpe1</OnlineLocation>
-        <ReleaseDate>2011-07-24T14:17:26</ReleaseDate>
-        <Tags>logo, tnt, </Tags>
-        <Location>E:\MePo logo v2\MPEI\MPEI 2\0.1.1.2\Logo TNT FR 0.1.1.2.mpe1</Location>
+        <ReleaseDate>2012-09-01T14:17:26</ReleaseDate>
+        <Tags>logo, tnt, french, france, tele, </Tags>
+        <Location>D:\svnroot\Logo-France-Mediaportal\trunk\TNT\MPEI\Publish\Logo TNT FR.mpe1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://www.team-mediaportal.com/components/com_mtree/img/listings/m/740.png</Value>
+              <Value>http://logo-france-mediaportal.googlecode.com/svn/trunk/TNT/MPEI/icon.png</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -114,7 +96,7 @@ Chaine CFOOT 4/3</VersionDescription>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
             <SectionParam Name="Force to uninstall on update">
-              <Value>YES</Value>
+              <Value>NO</Value>
               <ValueType>Bool</ValueType>
               <Description>Show dialog and force to uninstall previous version when updating an extension. Should only be disabled if you are using an NSIS/MSI installer.</Description>
             </SectionParam>
