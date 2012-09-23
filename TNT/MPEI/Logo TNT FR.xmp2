@@ -1245,7 +1245,7 @@ Cliquez sur Suivant pour continuer ou sur Annuler pour quitter l'installation.</
     <Items />
   </PluginDependencies>
   <GeneralInfo>
-    <Name>Logo France TNT et Cable</Name>
+    <Name>Logo France TNT</Name>
     <Id>be8366ed-af3b-4a75-94e3-30f8aef9052c</Id>
     <Author>Azzuro</Author>
     <HomePage>http://code.google.com/p/logo-france-mediaportal/</HomePage>
@@ -1276,7 +1276,7 @@ Merci à la participation de la Team MP-FR</ExtensionDescription>
           <Description>The icon file of the package (jpg,png,bmp)</Description>
         </SectionParam>
         <SectionParam Name="Online Icon">
-          <Value />
+          <Value>http://logo-france-mediaportal.googlecode.com/svn/trunk/TNT/MPEI/icon.png</Value>
           <ValueType>String</ValueType>
           <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
         </SectionParam>
@@ -2356,14 +2356,14 @@ Merci à la participation de la Team MP-FR</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>wizard.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{46dbf840-610c-4604-adbc-97519c5a47e0}-wizard.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{2ce3d9f8-89bb-4e79-9e28-300bd212c0e4}-wizard.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{bb873763-6bfb-4c7c-94ef-19bd05d7d97f}-icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{96fba371-f593-47c2-bcf1-241c15ea6cb7}-icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
