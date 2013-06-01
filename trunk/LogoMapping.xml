@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+  <Channel>
+    <Item Name="ARTE HD">
+      <Satellite />
+    </Item>
+    <File>ARTE HD.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="ARTE">
+      <Satellite />
+    </Item>
+    <File>ARTE.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BFM Business Paris">
+      <Satellite />
+    </Item>
+    <File>BFM Business Paris.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BFM TV">
+      <Satellite />
+    </Item>
+    <File>BFM TV.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Canal 21">
+      <Satellite />
+    </Item>
+    <File>Canal 21.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="CANAL+ CINEMA">
+      <Satellite />
+    </Item>
+    <File>CANAL+ CINEMA.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="CANAL+ SPORT">
+      <Satellite />
+    </Item>
+    <File>CANAL+ SPORT.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="canal+">
+      <Satellite />
+    </Item>
+    <File>canal+.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="CAP 24">
+      <Satellite />
+    </Item>
+    <File>CAP 24.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="CFOOT">
+      <Satellite />
+    </Item>
+    <File>CFOOT.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="direct 8">
+      <Satellite />
+    </Item>
+    <File>direct 8.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="DirectStar">
+      <Satellite />
+    </Item>
+    <File>DirectStar.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Eurosport">
+      <Satellite />
+    </Item>
+    <File>Eurosport.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="FR3 Pau">
+      <Satellite />
+    </Item>
+    <File>FR3 Pau.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="France 2 HD">
+      <Satellite />
+    </Item>
+    <File>France 2 HD.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="France 2">
+      <Satellite />
+    </Item>
+    <File>France 2.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="France 3">
+      <Satellite />
+    </Item>
+    <File>France 3.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="France 4">
+      <Satellite />
+    </Item>
+    <File>France 4.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="France 5">
+      <Satellite />
+    </Item>
+    <File>France 5.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="France ô">
+      <Satellite />
+    </Item>
+    <File>France ô.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Gulli">
+      <Satellite />
+    </Item>
+    <File>Gulli.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="IDF1">
+      <Satellite />
+    </Item>
+    <File>IDF1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="i_TELE">
+      <Satellite />
+    </Item>
+    <File>i_TELE.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="LCI">
+      <Satellite />
+    </Item>
+    <File>LCI.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="LCP">
+      <Satellite />
+    </Item>
+    <File>LCP.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="listing">
+      <Satellite />
+    </Item>
+    <File>listing.bat</File>
+  </Channel>
+  <Channel>
+    <Item Name="M6">
+      <Satellite />
+    </Item>
+    <File>M6.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="M6HD">
+      <Satellite />
+    </Item>
+    <File>M6HD.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="NRJ Paris">
+      <Satellite />
+    </Item>
+    <File>NRJ Paris.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="NRJ12">
+      <Satellite />
+    </Item>
+    <File>NRJ12.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="NT1">
+      <Satellite />
+    </Item>
+    <File>NT1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="PARIS PREMIERE">
+      <Satellite />
+    </Item>
+    <File>PARIS PREMIERE.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="PLANETE">
+      <Satellite />
+    </Item>
+    <File>PLANETE.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TF1 HD">
+      <Satellite />
+    </Item>
+    <File>TF1 HD.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TF1">
+      <Satellite />
+    </Item>
+    <File>TF1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TF6">
+      <Satellite />
+    </Item>
+    <File>TF6.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TMC">
+      <Satellite />
+    </Item>
+    <File>TMC.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TPS STAR">
+      <Satellite />
+    </Item>
+    <File>TPS STAR.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="W9">
+      <Satellite />
+    </Item>
+    <File>W9.png</File>
+  </Channel>
+</Mappings>
