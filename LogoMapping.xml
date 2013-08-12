@@ -3918,6 +3918,9 @@
     <Item Name="Europe 1">
       <Satellite />
     </Item>
+    <Item Name=" Europe 1">
+      <Satellite />
+    </Item>
     <File>Europe 1.png</File>
   </Channel>
   <Channel>
