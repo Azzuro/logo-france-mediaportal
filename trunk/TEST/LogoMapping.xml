@@ -1,10 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
   <Channel>
-    <Item Name="Canal-21">
+    <Item Name="Canal 21">
       <Satellite />
     </Item>
-    <File>Canal-21.png</File>
+    <File>Canal 21.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="France 2">
+      <Satellite />
+    </Item>
+    <File>France 2.png</File>
   </Channel>
   <Channel>
     <Item Name="i_TELE">
@@ -35,11 +41,5 @@
       <Satellite />
     </Item>
     <File>TF1.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="TVFrance-2">
-      <Satellite />
-    </Item>
-    <File>TVFrance-2.png</File>
   </Channel>
 </Mappings>
