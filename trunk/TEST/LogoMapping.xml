@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+  <Channel>
+    <Item Name="Canal-21">
+      <Satellite />
+    </Item>
+    <File>Canal-21.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="i_TELE">
+      <Satellite />
+    </Item>
+    <File>i_TELE.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="NT1">
+      <Satellite />
+    </Item>
+    <File>NT1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="PARIS-PREMIERE">
+      <Satellite />
+    </Item>
+    <File>PARIS-PREMIERE.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="PLANETE">
+      <Satellite />
+    </Item>
+    <File>PLANETE.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TF1">
+      <Satellite />
+    </Item>
+    <File>TF1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TVFrance-2">
+      <Satellite />
+    </Item>
+    <File>TVFrance-2.png</File>
+  </Channel>
+</Mappings>
